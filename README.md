@@ -40,7 +40,8 @@ Sleuth Kit Disk Analysis Commands
 ### Step3:
 
   ●	Navigate to the binary file of Sleuthkit in command prompt: 
-  ![image](https://github.com/user-attachments/assets/5e792732-51f0-4b7f-b299-cc21699104e8)
+  ![Screenshot 2025-04-22 203525](https://github.com/user-attachments/assets/5e6e2f41-ed6d-45f4-b4a9-e42e90dc8d36)
+
 
 ## PROCEDURE:
 ## ANALYSE THE FILE USING SLEUTHKIT TOOL:
@@ -50,7 +51,8 @@ Sleuth Kit Disk Analysis Commands
   
   ●	Command:  istat.exe -f filetype “file path” <inode number>
   
-  ![image](https://github.com/user-attachments/assets/39128d45-4178-478e-857b-d6ad4a927c59)
+  ![Screenshot 2025-04-22 203735](https://github.com/user-attachments/assets/ac0d4c9d-3c45-4f8a-b857-2afe6e5ba371)
+
   #### OUTPUT SUMMARY:
   ●	Type: Directory
   
@@ -67,7 +69,8 @@ Sleuth Kit Disk Analysis Commands
   
   ●	Command:  istat.exe -f filetype “file path” <inode number>
   
-  ![image](https://github.com/user-attachments/assets/93b77dd5-021d-404d-b6d8-4e04f4599022)
+  ![Screenshot 2025-04-22 203804](https://github.com/user-attachments/assets/60357a8b-e961-4d21-a518-0d3eafd0b2f3)
+
 
   #### OUTPUT SUMMARY:
   
@@ -85,7 +88,8 @@ Sleuth Kit Disk Analysis Commands
   
   ●	Command:  istat.exe -f filetype “file path” <inode number>
   
-  ![image](https://github.com/user-attachments/assets/ad0a968c-7359-4e75-90c0-1df182c3fad8)
+  ![Screenshot 2025-04-22 203841](https://github.com/user-attachments/assets/a81d77dd-58b2-4d44-8ee7-778635421997)
+
 
   #### OUTPUT SUMMARY:
   
@@ -107,8 +111,10 @@ Sleuth Kit Disk Analysis Commands
   
   ●	Command:  icat.exe -f filetype “file path” <inode number>
   
-  ![image](https://github.com/user-attachments/assets/5cf65056-bff0-4ecc-b566-a7b8910187b2)
-  ![image](https://github.com/user-attachments/assets/fda1fc66-6673-43e5-9ece-e0bdb735ea34)
+  ![Screenshot 2025-04-22 203939](https://github.com/user-attachments/assets/8fb8c76d-493e-4c74-b148-0373bfa97e87)
+
+  ![Screenshot 2025-04-22 203958](https://github.com/user-attachments/assets/71a93a44-d254-4279-bd4c-e5d892527e2c)
+
 
   #### OUTPUT SUMMARY:
   The command retrieves the contents of a VMware virtual machine configuration file (Metasploitable.vmx). This file defines how the virtual machine is set up, including:
@@ -129,8 +135,9 @@ Sleuth Kit Disk Analysis Commands
   ●	Use fsstat to view file system metadata of the ISO image.
   
   ●	Command:  fsstat -f filetype “file path”
-  ![image](https://github.com/user-attachments/assets/a6065f77-74fa-4507-bd57-85459da5f388)
-  ![image](https://github.com/user-attachments/assets/e93f8c16-c8fd-4e34-8bb2-617a76d9261f)
+  
+  ![Uploading Screenshot 2025-04-22 204137.png…]()
+
   
   #### OUTPUT SUMMARY:
   PRIMARY VOLUME DESCRIPTOR 1 File System Information:
@@ -168,7 +175,8 @@ Sleuth Kit Disk Analysis Commands
   ●	Use fls to view directory structure.
   
   ●	Command:  fls -f filetype -r  “file path”
-  ![image](https://github.com/user-attachments/assets/4eec2350-f448-4655-ba1f-da3ef3cb0e68)
+  ![Screenshot 2025-04-22 204344](https://github.com/user-attachments/assets/40ae6cf7-d6be-4939-80f5-a190a774152c)
+
 
 
   #### OUTPUT SUMMARY:
@@ -194,7 +202,8 @@ Sleuth Kit Disk Analysis Commands
   ●	Use img_stat – Sleuth Kit utility for viewing image file metadata.
   
   ●	Command:  img_stat  “file path”
-  ![image](https://github.com/user-attachments/assets/2877e39b-a09e-4361-a7fc-b6c03fce6346)
+  ![Screenshot 2025-04-22 204435](https://github.com/user-attachments/assets/cb7b5e15-b0f6-4660-a94e-e0a50349fda8)
+
 
   #### OUTPUT SUMMARY:
   •	Image Type: raw
