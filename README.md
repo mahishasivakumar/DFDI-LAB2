@@ -28,12 +28,14 @@ Sleuth Kit Disk Analysis Commands
 ### Step1:
 
   ●	Run command prompt as administrator
-  ![image](https://github.com/user-attachments/assets/c6e03690-2da1-453d-96c4-30dc60274c1d)
+  ![image](https://github.com/user-attachments/assets/e1d5a27a-7481-49f2-a985-4dbdaae46f99)
+
 
 ### Step2:
 
   ●	Verify Sleuthkit is installed.
-  ![image](https://github.com/user-attachments/assets/504edd66-9700-490f-b6c5-878d5ccba681)
+  ![Screenshot 2025-04-22 202558](https://github.com/user-attachments/assets/0c233c6f-c652-48d9-b34d-0f6a9cdf871c)
+
 
 ### Step3:
 
