@@ -136,7 +136,10 @@ Sleuth Kit Disk Analysis Commands
   
   ●	Command:  fsstat -f filetype “file path”
   
-  ![Uploading Screenshot 2025-04-22 204137.png…]()
+  ![Screenshot 2025-04-22 204117](https://github.com/user-attachments/assets/b0293036-4bf9-49ee-ab2b-79239db478aa)
+  ![Screenshot 2025-04-22 204137](https://github.com/user-attachments/assets/84974457-d8e9-43b3-a5b5-50f68df60d39)
+
+
 
   
   #### OUTPUT SUMMARY:
