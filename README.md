@@ -14,7 +14,7 @@ Name: Mahisha S
 ## DESIGN STEPS:
 ### Step 1:
 
-Obtain or create a disk image file (e.g., praveendisk.iso) to analyze. 
+Obtain or create a disk image file (e.g., mahishadiskfile.iso) to analyze. 
 
 ### Step 2:
 Use Sleuth Kit tools like istat, fsstat, and fls to examine the partition layout, file system details, and file listing.
