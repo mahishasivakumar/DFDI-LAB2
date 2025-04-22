@@ -7,8 +7,8 @@ To analyze the internal disk structure of a disk image using Sleuth Kit tools an
   ●	Hardware: Personal Computer (PC)
 
 ```
-Register Number: 212222040121
-Name: Praveen V
+Register Number: 212222040095
+Name: Mahisha S
 ```
 
 ## DESIGN STEPS:
